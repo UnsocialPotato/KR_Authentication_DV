@@ -1,2 +1,2 @@
-# KR_Authentication_DV
+# KR_Leaderboard_PR
 https://unsocialpotato.github.io/KR_Authentication_DV/
